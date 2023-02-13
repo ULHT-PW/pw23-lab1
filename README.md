@@ -1,4 +1,4 @@
-**UNIVERSIDADE LUSÓFONA **
+**UNIVERSIDADE LUSÓFONA**
 
 # Programação Web - Laboratório 1: <br>*O meu primeiro website*
 
@@ -17,9 +17,11 @@
 * Para que fique bem indentado, utilize o comando Shift+Alt+F
 
 
-## HTML
+# HTML
 
 O HTML é uma linguagem de marcação para construir páginas Web. OS ficheiros HTML possuem marcadores (*tags*), palavras entre parênteses angulares (`<` e `>`) que são comandos de formação da linguagem. 
+
+Reveja se necessário os slides apresentados nos [slides da aula prática](https://github.com/ULHT-PW/pw23-lab1/files/10727143/pw-lab1.pdf)
 
 No elemento `<title>Primeira página</title>`:
 * `<title>` é o marcador de abertura
