@@ -66,7 +66,7 @@ Fará neste laboratório um website sobre uma cidade do mundo à sua escolha que
         * `<meta name="keywords" content="palavras chave">`
         * `<meta name="description" content="Website sobre Lisboa">`
 
-# 3. Criação do cabeçalho
+# 3. Primeira página
 
 Crie agora o cabeçalho do seu website. Terá o nome da Cidade, uma imagem e o menu, ficando da seguinte forma:
 
@@ -77,17 +77,16 @@ Para, tal, siga os seguintes passos (reveja os slides da aula prática):
 2.	Na linha seguinte insira uma imagem da cidade a seu gosto. Redimensione a imagem para que tenha 300px de largura.No Paint existe uma opção resize que lhe permite escolher o número de pixels que pretende que tenha de largura. Respeite a proporção da imagem, sem a deformar! Guarde a imagem numa nova pasta `images`. Insira a imagem usando a etiqueta `img`. 
 3.	Deverá inserir, depois da imagem, uma quebra de linha, `br`, pois o elemento `img` não introduz uma quebra.
 
+4. Insira uma frase sobre a cidade.
+
+5. visualize a sua pagina, clicando diretamente no ficheiro HTML na pasta. O seu browser abrirá e renderizará a página.
+6. visualize a sua pagina, clicando no canto inferionr direito em "Go live". Deixe sempre aberto. Todas as alterações que for  fazendo serão automaticamente refrescadas.
 
 
+# Mais páginas para o meu website!
 
-
-
-
-
-
-
-
-4. Irá agora criar o menu. Para tal:
+1. Irá agora criar várias páginas interligadas, como no slide da aula prática. Reveja-o!
+2. Crie o menu. Para tal:
     1. Crie cinco etiquetas de hiperlink `a`, tendo como conteúdo o nome das páginas do seu site (Introdução, Localização, Multimédia, Informações, Home), estando os elementos separados pelo carater `|`. 
     2. Use como valor para o atributo `href` as seguintes páginas:
         1. `index.html` para Introdução 
@@ -95,16 +94,13 @@ Para, tal, siga os seguintes passos (reveja os slides da aula prática):
         3. `multimedia.html` para Multimédia
         4. `info.html` para Informações
 
-# 4. Criação das páginas do website
-
-De seguida iremos criar as páginas do seu website que estarão interligadas.
-1.	Crie 4 copias do ficheiro index.html que criou. 
-2.	Altere os nomes dos ficheiros para ter um de cada, com os seguintes nomes: index.html, local.html, multimedia.html, info.html (atenção que os nomes dos ficheiros HTML  deverão estar em minúsculas, sem espaços, acentos ou carateres especiais)
-3.	Em cada ficheiro, no menu ponha a negrito a palavra a que corresponde a página.
-4.	Abra o ficheiro index, e experimente se os hiperlinks funcionam. 
+3.	Crie 4 copias do ficheiro index.html que criou. 
+4.	Altere os nomes dos ficheiros para ter um de cada, com os seguintes nomes: index.html, local.html, multimedia.html, info.html (atenção que os nomes dos ficheiros HTML  deverão estar em minúsculas, sem espaços, acentos ou carateres especiais)
+5.	Em cada ficheiro, no menu ponha a negrito a palavra a que corresponde a página. PAra pôr a negrito colocque a etiqueta `b`em volta do hiperlink devido.
+6.	Abra o ficheiro index, e experimente se os hiperlinks funcionam. 
 Tem agora criado o seu website! Agora irá preencher cada página com conteúdos.
 
-# 5. Página Introdução
+# Página Introdução
 
 Na pagina `index.html` insira, no body, por debaixo do menu:
 1. Um elemento `h2` com a palavra Introdução.
