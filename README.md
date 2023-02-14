@@ -18,9 +18,7 @@
 
 # HTML
 
-O HTML é uma linguagem de marcação para construir páginas Web. OS ficheiros HTML possuem marcadores (*tags*), palavras entre parênteses angulares (`<` e `>`) que são comandos de formação da linguagem. 
-
-Reveja se necessário os slides apresentados na [aula prática](https://github.com/ULHT-PW/pw23-lab1/files/10727143/pw-lab1.pdf)
+O HTML é uma linguagem de marcação para construir páginas Web. Os ficheiros HTML possuem marcadores (*tags*), palavras entre parênteses angulares (`<` e `>`) que são comandos de formação da linguagem. Reveja se necessário os slides apresentados na [aula prática](https://github.com/ULHT-PW/pw23-lab1/files/10727143/pw-lab1.pdf)
 
 Por exemplo, no elemento `<title>Primeira página</title>`:
 * `<title>` é o marcador de abertura
@@ -28,8 +26,10 @@ Por exemplo, no elemento `<title>Primeira página</title>`:
 * `Primeira página` será o conteúdo afetado pelo marcador <title>, que neste caso especificará o título da barra de navegação.
 
 <details>
- <summary>MArcadores usados neste laboratório</summary>
-Neste laboratório utilizará vários marcadores:
+ 
+ <summary>Marcadores usados neste laboratório</summary>
+
+ Neste laboratório utilizará vários marcadores:
 * `<h1>` = marcador que define um titulo - heading1 (`<h2>` um subtítulo, `<h3>` um subsubtítulo, ...)
 * `<p>` = marcador que define um parágrafo
 * `<ul>` = marcador que define uma lista não numerada (`<ol>` para lista numerada)
