@@ -18,7 +18,7 @@
 * Instale no VS Code a extensão live server. Permitir-lhe-á visualizar a página, à medida que for editando. Basta clicar, no canto inferior direito, em `Go live`.
 * Para que o seu código fique bem indentado, utilize o comando `Shift+Alt+F`
 
-# HTML
+# 1. HTML
 
 O HTML é uma linguagem de marcação para construir páginas Web. Os ficheiros HTML possuem marcadores (*tags*), palavras entre parênteses angulares (`<` e `>`) que são comandos de formação da linguagem. Reveja se necessário os slides apresentados na [aula prática](https://github.com/ULHT-PW/pw23-lab1/files/10727143/pw-lab1.pdf)
 
@@ -48,7 +48,8 @@ Dentro de um marcador podem ser especificados pares de `atributo="valor"`. Os at
 
 </details>
 
-# 1. Página Web 🕸
+
+# 2. A minha primeira página HTML 😀 
 
 Fará neste laboratório um website sobre uma cidade do mundo à sua escolha que goste. Deverá congregar várias informações sobre esta conforme indicado ao longo do laboratório. 
 
@@ -58,7 +59,7 @@ Fará neste laboratório um website sobre uma cidade do mundo à sua escolha que
 
 ![image](https://user-images.githubusercontent.com/42048382/218617086-1675ad42-c35a-4ee3-aabb-0be3e40218bb.png)
 
-1. Dentro do elemento `<head>` insira os seguintes elementos:
+3. Dentro do elemento `<head>` insira os seguintes elementos:
     1. `<title>`, com o nome da cidade escolhida, que especificaráo título da barra do navegador. 
     2. `<meta charset="utf-8">`, metadado (meta) que especifica que a página utiliza UTF-8 como codificação de carateres, em vez de ASCII. Isso permite inserir emojis e carateres não ASCII tipo ç, ã, õ. 
     3. nome do autor do site, descrição do conteudo do site, e palavras chave: 
@@ -66,23 +67,18 @@ Fará neste laboratório um website sobre uma cidade do mundo à sua escolha que
         * `<meta name="description" content="Website sobre Lisboa">`
         * `<meta name="keywords" content="palavras chave">`
 
-# 2. A minha primeira página 😀
+4. No corpo principal, `<body>`: 
+    1.	insira um elemento `<h1>` com o nome da cidade.
+    2.	Procure no Google uma imagem que goste da cidade. 
+    3. Edite-a com o Paint. Redimensione-a proporcionalmente para que tenha 300px de largura. 
+    3. Guarde a imagem numa nova pasta `images`. 
+    4. Insira a imagem usando a etiqueta `<img>`. Especifique no atributo `src` o caminho até ao ficheiro.
+    5.	Insira, depois da imagem, uma quebra de linha, elemento `<br>`, pois o elemento `<img>` não introduz uma quebra de linha.
+    6. Insira por baixo um titulo `<h2>` com a palavra Introdução 
+    7. Escreva uma frase sobre a cidade.
 
-Crie agora a sua primeira página. 
- 
  ![image](https://user-images.githubusercontent.com/42048382/218616647-c7377b2e-e9d3-48de-8310-8eb047647970.png)
-
-
-Para, tal, siga os seguintes passos (reveja os slides da aula prática): 
-1.	No `<body>`, insira um elemento `<h1>` com o nome da cidade.
-2.	Procure no Google uma imagem que goste da cidade. 
-3. Edite-a com o Paint. Redimensione-a proporcionalmente para que tenha 300px de largura. 
-3. Guarde a imagem numa nova pasta `images`. 
-4. Insira a imagem usando a etiqueta `<img>`. Especifique no atributo `src` o caminho até ao ficheiro.
-5.	Insira, depois da imagem, uma quebra de linha, elemento `<br>`, pois o elemento `<img>` não introduz uma quebra de linha.
-6. Insira por baixo um titulo `<h2>` com a palavra Introdução 
-7. Escreva uma frase sobre a cidade.
-
+ 
 A sua página está pronta!   
 1. visualize a sua pagina, clicando diretamente no ficheiro HTML na pasta. O seu browser abrirá e renderizará a página.
 2. visualize a sua pagina, clicando no canto inferionr direito em "Go live". Deixe sempre aberto. Todas as alterações que for  fazendo serão automaticamente refrescadas.
@@ -96,7 +92,6 @@ Irá agora criar várias páginas interligadas, como no [slides 15](https://gith
 1. Crie o menu depois da imagem e etiqueta `<br>`. Num `<p>` coloque 4 hiperlinks `<a>` para as páginas do seu site: Introdução, Localização, Multimédia, Informações. 
 
 ![image](https://user-images.githubusercontent.com/42048382/218616401-14dcee38-e524-42bd-ad50-773df147a1be.png)
-
 
 
 2.	Crie 4 copias do ficheiro index.html que criou. 
