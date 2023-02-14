@@ -8,7 +8,7 @@
 * Colocar o website online
 
 ## Prazo de Entrega
-* Este laboratório deverá ser concluido antes da sua aula prática da semana de 20.2, onde será avaliado. 
+* Este laboratório deverá ser concluido até dia 19.2, sendo posteriormente avaliado. 
 
 ## Pré-requisitos
 * Instale o VS Code instalado para editar o código HTML de forma fácil.
