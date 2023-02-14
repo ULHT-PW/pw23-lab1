@@ -128,15 +128,16 @@ Tem agora criado o seu website! Agora irá preencher cada página com conteúdos
     
 Continue a editar no VS Code o seu website. No final, carregará os ficheiros finalizados. 
     
-# 4. Página Introdução
+# 5. Página Introdução
 
 Na pagina `index.html` insira, por debaixo da frase que escreveu sobre a cidade crie:
-3. Pequena história divertida:  
+    
+1. Pequena história divertida:  
     1. Conte uma pequena história divertida apenas com emojis 😉, sobre a :cityscape: que escolheu. Explore emojis, premindo nas teclas `🙂Windows + .`, ou pesquise na Internet em [emojipedia](https://emojipedia.org/), [carateres especiais UTF-8](https://www.w3schools.com/charsets/ref_html_utf8.asp), ou [W3Schools](https://www.w3schools.com/charsets/ref_emoji.asp). 
     2. Coloque uma barra horizontal de separação `hr` 
     3. Conte a história por palavras suas sem formatação. 
-4. De seguida, num novo parágrafo `<p>` apresente o seu website, crie uma lista não numerada com a etiqueta `<ol>` e várias linhas `<li>`. Em cada linha apresente cada página do seu site em poucas palavras, incluindo numa palavra chave um link para essa página, com o elemento `<a>`.
-5. Crie uma [wordcloud](https://www.wordclouds.com/) com base em palavras que associa à cidade. 
+2. De seguida, num novo parágrafo `<p>` apresente o seu website, crie uma lista não numerada com a etiqueta `<ol>` e várias linhas `<li>`. Em cada linha apresente cada página do seu site em poucas palavras, incluindo numa palavra chave um link para essa página, com o elemento `<a>`.
+3. Crie uma [wordcloud](https://www.wordclouds.com/) com base em palavras que associa à cidade. 
     1. Clique em wordlist e Edit, prima no botão para apagar as palavras existentes.
     2. Adicione palavras que estejam associadas à cidade. 
     3. Ponha peso 10 no nome da cidade para que esta fique com maior destaque. 
@@ -145,7 +146,7 @@ Na pagina `index.html` insira, por debaixo da frase que escreveu sobre a cidade 
     6. Guarde a imagem na pasta `/images`
     6. Insira-a como uma `<img>` por debaixo da lista.
 
-# Página Localização
+# 6. Página Localização
 
 Na página `local.html`:
 1. Por baixo do menu, insira no elemento `<h2>` a palavra Localização.
@@ -160,21 +161,21 @@ Na página `local.html`:
     g. acerte a dimensão da janela.
 
 
-# Página Multimédia
+# 7. Página Multimédia
 
 Na página `multimedia.html` crie:
 1. Um elemento `<h2>` com a palavra Multimédia, em vez de Introdução.
 2. Pesquise no Youtube por um video sobre a cidade escolhida e insira-o na sua página recorrendo à opção "partilhar" e escolhendo "embeded". Será um elemento ìframe`.
 
 
-# Página Informações
+# 8. Página Informações
 
 Na página `info.html`:
 1.	Um elemento `<h2>` com a palavra Informações em vez de Introdução.
 2. Crie uma frase a introduzir uma tabela de informações a compilar sobre a cidade.	
 3.Crie uma tabela com dados à sua escolha sobre a cidade escolhida. Deverá ter pelo menos 3 colunas e 4 colunas. Uma sugestão é ir à wikipedia e extrair alguns elementos que aparecem numa tabela à direita. A terceira coluna pode consistir num elemento agrupador (por exemplo demografia, geografia, história, etc). Veja o exemplo da tabela nos slides.
     
-# Site atualizado online!
+# 9. Site atualizado online!
 
 1. Na aplicação [pythonanywhere](https://www.pythonanywhere.com/), clique em "Files"
 7. Carregue pasta todos os ficheiros do seu website, pois muitos foram modificados
@@ -183,7 +184,7 @@ Na página `info.html`:
 10. Clique no seu dominio. O seu site está online 🥳
     
  
-# Fim
+# 10. Fim
  
 Esperamos que tenha gostado de aplicar os conhecimentos de HTML fazendo um primeiro website &#127760;!
 
