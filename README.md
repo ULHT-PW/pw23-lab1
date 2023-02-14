@@ -48,7 +48,7 @@ Dentro de um marcador podem ser especificados pares de `atributo="valor"`. Os at
 
 </details>
 
-# 1. Página Web 
+# 1. Página Web 🕸
 
 Fará neste laboratório um website sobre uma cidade do mundo à sua escolha que goste. Deverá congregar várias informações sobre esta conforme indicado ao longo do laboratório. 
 
@@ -74,7 +74,7 @@ Fará neste laboratório um website sobre uma cidade do mundo à sua escolha que
         * `<meta name="description" content="Website sobre Lisboa">`
         * `<meta name="keywords" content="palavras chave">`
 
-# 2. A minha primeira página
+# 2. A minha primeira página 😀
 
 Crie agora a sua primeira página. Siga o template em baixo: terá no topo o nome da sua cidade, uma imagem à sua escolha e o menu, ficando da seguinte forma:
 
@@ -99,7 +99,7 @@ A sua página está pronta!
     
 Está ligeiramente diferente da imagem a cima, pois falta inserir os hiperlinks.
 
-# 3. Mais páginas para o meu website!
+# 3. Mais páginas para o meu website! 🥳
 
 Irá agora criar várias páginas interligadas, como no [slides 15](https://github.com/ULHT-PW/pw23-lab1/files/10727143/pw-lab1.pdf#page=15) da aula prática.
 
@@ -119,7 +119,7 @@ Irá agora criar várias páginas interligadas, como no [slides 15](https://gith
 6. Abra o ficheiro index, e verifique que os hiperlinks funcionam. 
 Tem agora criado o seu website! Agora irá preencher cada página com conteúdos.
     
-# 4. Site online em 10 passos!
+# 4. Site online em 10 passos! ☁
 
 1. Crie uma conta em [www.pythonanywhere.com](https://www.pythonanywhere.com/). O username que escolher será o nome do seu dominio (username.pythonanywhere.com). 
 ![image](https://user-images.githubusercontent.com/42048382/218605220-87f17a31-df30-45c9-941a-812145bcbfd7.png)
@@ -135,7 +135,7 @@ Tem agora criado o seu website! Agora irá preencher cada página com conteúdos
     
 Continue a editar no VS Code o seu website. No final, carregará os ficheiros finalizados. 
     
-# 5. Página Introdução
+# 5. Página Introdução 🏕
 
 Na pagina `index.html` insira, por debaixo da frase que escreveu sobre a cidade crie:
 
@@ -150,7 +150,7 @@ Na pagina `index.html` insira, por debaixo da frase que escreveu sobre a cidade 
     6. Guarde a imagem na pasta `/images`
     6. Insira-a como uma `<img>` por debaixo da lista.
 
-# 6. Página Localização
+# 6. Página Localização 🗺
 
 Na página `local.html`:
 1. Insira um pequeno parágrafo que descreva a localização da ciadade (continente, país), assim como algumas informações geográficas destas.
@@ -164,13 +164,13 @@ Na página `local.html`:
     g. acerte a dimensão da janela.
 
 
-# 7. Página Multimédia
+# 7. Página Multimédia 🎬
 
 Na página `multimedia.html` crie:
 1. Pesquise no Youtube por um video sobre a cidade escolhida e insira-o na sua página recorrendo à opção "partilhar" e escolhendo "embeded". Será um elemento ìframe`.
 
 
-# 8. Página Informações
+# 8. Página Informações ℹ
 
 Na página `info.html`:
 1. Crie uma frase a introduzir uma tabela de informações a compilar sobre a cidade.	
@@ -185,7 +185,7 @@ Na página `info.html`:
 10. Clique no seu dominio. O seu site está online 🥳
     
  
-# 10. Fim
+# 10. Fim 🎉
 
 Submeta o domínio da sua aplicação no Moodle até à sua próxima aula prática
 
