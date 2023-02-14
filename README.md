@@ -15,7 +15,7 @@
 * Instale no VS Code a extensão live server. Permitir-lhe-á visualizar a página, à medida que for editando. Basta clicar, no canto inferior direito, em `Go live`.
 * Utilize `Shift+Alt+F` para indentar código
 
-# 1. HTML 
+# 1. HTML `<html>`
 
 O HTML é uma linguagem de marcação para construir páginas Web. Os ficheiros HTML possuem marcadores (*tags*), palavras entre parênteses angulares (`<` e `>`) que são comandos de formação da linguagem. 
 
