@@ -56,15 +56,7 @@ Fará neste laboratório um website sobre uma cidade do mundo à sua escolha que
 
 2. crie o ficheiro `index.html`, inserindo as seguintes partes elementares de qualquer ficheiro HTML:
 
-```html
-<!DOCTYPE html>
-<html lang="pt">
-    <head>
-    </head>
-    <body>
-    </body>
-</html>
-```
+![image](https://user-images.githubusercontent.com/42048382/218617086-1675ad42-c35a-4ee3-aabb-0be3e40218bb.png)
 
 1. Dentro do elemento `<head>` insira os seguintes elementos:
     1. `<title>`, com o nome da cidade escolhida, que especificaráo título da barra do navegador. 
@@ -76,23 +68,21 @@ Fará neste laboratório um website sobre uma cidade do mundo à sua escolha que
 
 # 2. A minha primeira página 😀
 
-Crie agora a sua primeira página. Siga o template em baixo: terá no topo o nome da sua cidade, uma imagem à sua escolha e o menu, ficando da seguinte forma:
+Crie agora a sua primeira página. 
+ 
+ ![image](https://user-images.githubusercontent.com/42048382/218616647-c7377b2e-e9d3-48de-8310-8eb047647970.png)
 
-![cabecalho](https://user-images.githubusercontent.com/42048382/218595546-59a5863a-0f14-4002-8176-80d2ae3b2aa2.png)
 
 Para, tal, siga os seguintes passos (reveja os slides da aula prática): 
 1.	No `<body>`, insira um elemento `<h1>` com o nome da cidade.
 2.	Procure no Google uma imagem que goste da cidade. 
 3. Edite-a com o Paint. Redimensione-a proporcionalmente para que tenha 300px de largura. 
 3. Guarde a imagem numa nova pasta `images`. 
-4. Insira a imagem usando a etiqueta `<img>`. Especifique no atributo `src` o caminho até ao ficheiro, ficando `<img src="images/cidade.png">`.
-    
+4. Insira a imagem usando a etiqueta `<img>`. Especifique no atributo `src` o caminho até ao ficheiro.
 5.	Insira, depois da imagem, uma quebra de linha, elemento `<br>`, pois o elemento `<img>` não introduz uma quebra de linha.
+6. Insira por baixo um titulo `<h2>` com a palavra Introdução 
+7. Escreva uma frase sobre a cidade.
 
-4. Insira um titulo `<h2>` com a palavra Introdução 
-5. Finalmente, escreva uma frase sobre a cidade.
-
-    
 A sua página está pronta!   
 1. visualize a sua pagina, clicando diretamente no ficheiro HTML na pasta. O seu browser abrirá e renderizará a página.
 2. visualize a sua pagina, clicando no canto inferionr direito em "Go live". Deixe sempre aberto. Todas as alterações que for  fazendo serão automaticamente refrescadas.
@@ -103,14 +93,11 @@ Está ligeiramente diferente da imagem a cima, pois falta inserir os hiperlinks.
 
 Irá agora criar várias páginas interligadas, como no [slides 15](https://github.com/ULHT-PW/pw23-lab1/files/10727143/pw-lab1.pdf#page=15) da aula prática.
 
-![image](https://user-images.githubusercontent.com/42048382/218614818-db6d0c49-451f-490a-8fe7-29c970153e5b.png)
+1. Crie o menu depois da imagem e etiqueta `<br>`. Num `<p>` coloque 4 hiperlinks `<a>` para as páginas do seu site: Introdução, Localização, Multimédia, Informações. 
 
-1. Crie o menu depois da imagem e etiqueta `<br>`. Num `<p>` coloque 5 hiperlinks `<a>` para as páginas do seu site: Introdução, Localização, Multimédia, Informações, Home. 
-    2. Use como valor para o atributo `href` as seguintes páginas:
-        1. `index.html` para Introdução 
-        2. `local.html` para Localização
-        3. `multimedia.html` para Multimédia
-        4. `info.html` para Informações
+![image](https://user-images.githubusercontent.com/42048382/218616401-14dcee38-e524-42bd-ad50-773df147a1be.png)
+
+
 
 2.	Crie 4 copias do ficheiro index.html que criou. 
 3.	Altere os nomes dos ficheiros para ter os seguintes: index.html, local.html, multimedia.html, info.html (atenção que os nomes dos ficheiros HTML  deverão estar em minúsculas, sem espaços, acentos ou carateres especiais)
