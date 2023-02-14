@@ -2,7 +2,7 @@
 
 # Programação Web - Laboratório 1: <br>*O meu primeiro website*
 
-## Objetivo:
+## Objetivo
 * Neste laboratório criará um website sobre uma cidade à sua escolha, onde irá aplicar os conceitos aprendidos sobre HTML adquiridos esta semana.
 * Este laboratório deverá ser concluido antes da sua aula prática da semana de 20.2, onde será avaliado. 
 
@@ -15,7 +15,6 @@
 * Deverá ter o VS Code instalado para editar o código HTML de forma fácil.
 * Instale no VS Code a extensão live server
 * Para que fique bem indentado, utilize o comando Shift+Alt+F
-
 
 # HTML
 
@@ -155,17 +154,20 @@ Na página `info.html`:
     * border (use border="1"),
     * formatação de colunas com colgroup, explorando os atributos existentes
 
-# Ponha o seu site online
+# Ponha o seu site online em 10 passos!
 
-1. Crie uma conta em pythonanywhere.
-2. Clique em Web, em "Add a new web app"
-3. Next
-4. Clique em "Manual configuration"
-5. Escolha "Python 3.10"
-6. No separador "Files" crie uma pasta intitulada "web"
-7. Carregue todos os ficheiros do seu website
-8. No separador "Web", clique no botão verde "Reload ...."
-9. O seu site está online! Clique no seu dominio
+1. Crie uma conta em [www.pythonanywhere.com](https://www.pythonanywhere.com/).
+2. No menu superior, clique em "Web" e depois em  "Add a new web app"
+![image](https://user-images.githubusercontent.com/42048382/218605220-87f17a31-df30-45c9-941a-812145bcbfd7.png)
+
+3. Clique em "Manual configuration"
+4. Escolha "Python 3.10"
+5. No menu superior, clique em "Files"
+6. crie uma pasta intitulada "web"
+7. Carregue nessa pasta todos os ficheiros do seu website
+8. No menu superior, clique em "Web"
+9. Clique no botão verde "Reload ...."
+10. Clique no seu dominio. O seu site está online 🥳
  
 # Fim
  
