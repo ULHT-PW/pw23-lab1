@@ -78,21 +78,23 @@ Crie agora a sua primeira página. Siga o template em baixo: terá no topo o nom
 ![cabecalho](https://user-images.githubusercontent.com/42048382/218595546-59a5863a-0f14-4002-8176-80d2ae3b2aa2.png)
 
 Para, tal, siga os seguintes passos (reveja os slides da aula prática): 
-1.	No body, insira um elemento `h1` com o nome da cidade.
-2.	Na linha seguinte insira uma imagem da cidade a seu gosto. Redimensione a imagem para que tenha 300px de largura. No Paint existe uma opção resize que lhe permite escolher o número de pixels que pretende que tenha de largura. Respeite a proporção da imagem, sem a deformar! 
+1.	No `<body>`, insira um elemento `<h1>` com o nome da cidade.
+2.	Procure no Google uma imagem que goste da cidade. 
+3. Edite-a com o Paint. Redimensione-a proporcionalmente para que tenha 300px de largura. 
 3. Guarde a imagem numa nova pasta `images`. 
-4. Insira a imagem usando a etiqueta `img`. Especifique no atributo `src` o caminho até ao ficheiro, ficando `<img src="images/cidade.png">`.
+4. Insira a imagem usando a etiqueta `<img>`. Especifique no atributo `src` o caminho até ao ficheiro, ficando `<img src="images/cidade.png">`.
     
 5.	Insira, depois da imagem, uma quebra de linha, elemento `<br>`, pois o elemento `<img>` não introduz uma quebra de linha.
 
-4. Insira um titulo `h2` com a palavra Introdução 
+4. Insira um titulo `<h2>` com a palavra Introdução 
 5. Finalmente, escreva uma frase sobre a cidade.
 
     
 A sua página está pronta!   
 1. visualize a sua pagina, clicando diretamente no ficheiro HTML na pasta. O seu browser abrirá e renderizará a página.
 2. visualize a sua pagina, clicando no canto inferionr direito em "Go live". Deixe sempre aberto. Todas as alterações que for  fazendo serão automaticamente refrescadas.
-Para está ligeiramente diferente da imagem a cima, pois falta inserir os hiperlinks.
+    
+Está ligeiramente diferente da imagem a cima, pois falta inserir os hiperlinks.
 
 # 3. Mais páginas para o meu website!
 
