@@ -27,6 +27,8 @@ Por exemplo, no elemento `<title>Primeira página</title>`:
 * `</title>` é o marcador de fecho
 * `Primeira página` será o conteúdo afetado pelo marcador <title>, que neste caso especificará o título da barra de navegação.
 
+<details>
+ <summary>MArcadores usados neste laboratório</summary>
 Neste laboratório utilizará vários marcadores:
 * `<h1>` = marcador que define um titulo - heading1 (`<h2>` um subtítulo, `<h3>` um subsubtítulo, ...)
 * `<p>` = marcador que define um parágrafo
@@ -41,9 +43,8 @@ Neste laboratório utilizará vários marcadores:
 Dentro de um marcador podem ser especificados pares de `atributo="valor"`. Os atributos modificam os resultados padrões dos elementos e os valores caracterizam essa mudança. Utilizará os seguintes atributos:
 * `src` = atributo que define o nome do ficheiro com a imagem
 * `href`= atributo que define o URL da hiperligação
-    
-Nas próximas aulas falaremos mais em detalhe destes aspectos.
 
+</details>
 
 # 1. Página Web 
 
