@@ -99,9 +99,10 @@ Está ligeiramente diferente da imagem a cima, pois falta inserir os hiperlinks.
 
 # 3. Mais páginas para o meu website!
 
-Irá agora criar várias páginas interligadas, como no slide da aula prática. Reveja os [slides 15 e 16](https://github.com/ULHT-PW/pw23-lab1/files/10727143/pw-lab1.pdf) PAra tal:
-1. Crie o menu. Para tal:
-    1. Depois da imagem e etiqueta `<br>`, crie o menu.Crie um parágrafo `<p>` com cinco elementos de hiperlink `<a>`, tendo como conteúdo o nome das páginas do seu site: Introdução, Localização, Multimédia, Informações, Home, estando os elementos separados pelo carater `|`. 
+Irá agora criar várias páginas interligadas, como no [slides 15](https://github.com/ULHT-PW/pw23-lab1/files/10727143/pw-lab1.pdf#page=15) da aula prática.
+
+1. Crie o menu:
+    1. Depois da imagem e etiqueta `<br>`, insira num parágrafo `<p>` cinco elementos de hiperlink `<a>`, tendo como conteúdo o nome das páginas do seu site: Introdução, Localização, Multimédia, Informações, Home, estando os elementos separados pelo carater `|`. 
     2. Use como valor para o atributo `href` as seguintes páginas:
         1. `index.html` para Introdução 
         2. `local.html` para Localização
