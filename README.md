@@ -63,7 +63,7 @@ Fará neste laboratório um website sobre uma cidade do mundo à sua escolha que
 </html>
 ```
 
-1. Dentro do elemento <head> insira os seguintes elementos:
+1. Dentro do elemento `<head>` insira os seguintes elementos:
     1. `<title>`, com o nome da cidade escolhida, que especificaráo título da barra do navegador. 
     2. `<meta charset="utf-8">`, metadado (meta) que especifica que a página utiliza UTF-8 como codificação de carateres, em vez de ASCII. Isso permite inserir emojis e carateres não ASCII tipo ç, ã, õ. 
     3. nome do autor do site, descrição do conteudo do site, e palavras chave: 
@@ -135,7 +135,7 @@ Na pagina `index.html` insira, por debaixo da frase que escreveu sobre a cidade 
     1. Conte uma pequena história divertida apenas com emojis 😉, sobre a :cityscape: que escolheu. Explore emojis, premindo nas teclas `🙂Windows + .`, ou pesquise na Internet em [emojipedia](https://emojipedia.org/), [carateres especiais UTF-8](https://www.w3schools.com/charsets/ref_html_utf8.asp), ou [W3Schools](https://www.w3schools.com/charsets/ref_emoji.asp). 
     2. Coloque uma barra horizontal de separação `hr` 
     3. Conte a história por palavras suas sem formatação. 
-4. De seguida, num novo parágrafo apresente o seu website, criando uma lista não numerada com a etiqueta `<ol>` e várias linhas `<li>`. Em cada linha apresente cada página do seu site em poucas palavras, incluindo numa palavra chave um link para essa página, com o elemento `<a>`.
+4. De seguida, num novo parágrafo `<p>` apresente o seu website, crie uma lista não numerada com a etiqueta `<ol>` e várias linhas `<li>`. Em cada linha apresente cada página do seu site em poucas palavras, incluindo numa palavra chave um link para essa página, com o elemento `<a>`.
 5. Crie uma [wordcloud](https://www.wordclouds.com/) com base em palavras que associa à cidade. 
     1. Clique em wordlist e Edit, prima no botão para apagar as palavras existentes.
     2. Adicione palavras que estejam associadas à cidade. 
@@ -148,7 +148,7 @@ Na pagina `index.html` insira, por debaixo da frase que escreveu sobre a cidade 
 # Página Localização
 
 Na página `local.html`:
-1. Por baixo do menu, insira no elemento `h2` a palavra Localização.
+1. Por baixo do menu, insira no elemento `<h2>` a palavra Localização.
 2. Insira um pequeno parágrafo que descreva a localização da ciadade (continente, país), assim como algumas informações geográficas destas.
 3.	Insira por baixo um mapa do Google Maps do lugar. Para tal: 
     a. procure o lugar no website www.google.pt/maps
@@ -163,25 +163,16 @@ Na página `local.html`:
 # Página Multimédia
 
 Na página `multimedia.html` crie:
-1. Um elemento `h2` com a palavra Multimédia, em vez de Introdução.
+1. Um elemento `<h2>` com a palavra Multimédia, em vez de Introdução.
 2. Pesquise no Youtube por um video sobre a cidade escolhida e insira-o na sua página recorrendo à opção "partilhar" e escolhendo "embeded". Será um elemento ìframe`.
 
 
 # Página Informações
 
 Na página `info.html`:
-1.	Um elemento `h2` com a palavra Informações em vez de Introdução.
+1.	Um elemento `<h2>` com a palavra Informações em vez de Introdução.
 2. Crie uma frase a introduzir uma tabela de informações a compilar sobre a cidade.	
-3.	Crie uma tabela com dados à sua escolha sobre a cidade escolhida. Deverá ter pelo menos 3 colunas e 4 colunas edeverá usar colspan e rowspan. Uma sugestão é ir à wikipedia e extrair alguns elementos que aparecem numa tabela à direita. A terceira coluna pode consistir num elemento agrupador (por exemplo demografia, geografia, história, etc). Veja o exemplo da tabela nos slides.
-4.	Deve depois formatar esta tabela usando os seguintes atributos:
-    * pelo menos um atributo rowspan e um coslpan (o valor de cada um sendo maior que 1). 
-    * cellspacing,
-    * cellpadding, 
-    * bgcolor, 
-    * align, 
-    * border (use border="1"),
-    * formatação de colunas com colgroup, explorando os atributos existentes
-
+3.Crie uma tabela com dados à sua escolha sobre a cidade escolhida. Deverá ter pelo menos 3 colunas e 4 colunas. Uma sugestão é ir à wikipedia e extrair alguns elementos que aparecem numa tabela à direita. A terceira coluna pode consistir num elemento agrupador (por exemplo demografia, geografia, história, etc). Veja o exemplo da tabela nos slides.
     
 # Site atualizado online!
 
