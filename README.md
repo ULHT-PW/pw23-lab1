@@ -3,7 +3,9 @@
 # Programação Web - Laboratório 1: <br>*O meu primeiro website* 
 
 ## Objetivo
-* Neste laboratório criará um website sobre uma cidade à sua escolha, onde irá aplicar os conceitos elementares de HTML.
+* Neste laboratório criará um website **sobre uma cidade ou lugar à sua escolha**.
+* Irá aplicar os conceitos elementares de HTML.
+* Irá ficar disponível online
 * Este laboratório deverá ser concluido antes da sua aula prática da semana de 20.2, onde será avaliado. 
 
 ## Recomendações
@@ -101,8 +103,9 @@ Está ligeiramente diferente da imagem a cima, pois falta inserir os hiperlinks.
 
 Irá agora criar várias páginas interligadas, como no [slides 15](https://github.com/ULHT-PW/pw23-lab1/files/10727143/pw-lab1.pdf#page=15) da aula prática.
 
-1. Crie o menu:
-    1. Depois da imagem e etiqueta `<br>`, insira num parágrafo `<p>` cinco elementos de hiperlink `<a>`, tendo como conteúdo o nome das páginas do seu site: Introdução, Localização, Multimédia, Informações, Home, estando os elementos separados pelo carater `|`. 
+![image](https://user-images.githubusercontent.com/42048382/218614818-db6d0c49-451f-490a-8fe7-29c970153e5b.png)
+
+1. Crie o menu depois da imagem e etiqueta `<br>`. Num `<p>` coloque 5 hiperlinks `<a>` para as páginas do seu site: Introdução, Localização, Multimédia, Informações, Home. 
     2. Use como valor para o atributo `href` as seguintes páginas:
         1. `index.html` para Introdução 
         2. `local.html` para Localização
@@ -135,13 +138,10 @@ Continue a editar no VS Code o seu website. No final, carregará os ficheiros fi
 # 5. Página Introdução
 
 Na pagina `index.html` insira, por debaixo da frase que escreveu sobre a cidade crie:
-    
-1. Pequena história divertida:  
-    1. Conte uma pequena história divertida apenas com emojis 😉, sobre a :cityscape: que escolheu. Explore emojis, premindo nas teclas `🙂Windows + .`, ou pesquise na Internet em [emojipedia](https://emojipedia.org/), [carateres especiais UTF-8](https://www.w3schools.com/charsets/ref_html_utf8.asp), ou [W3Schools](https://www.w3schools.com/charsets/ref_emoji.asp). 
-    2. Coloque uma barra horizontal de separação `hr` 
-    3. Conte a história por palavras suas sem formatação. 
-2. De seguida, num novo parágrafo `<p>` apresente o seu website, crie uma lista não numerada com a etiqueta `<ol>` e várias linhas `<li>`. Em cada linha apresente cada página do seu site em poucas palavras, incluindo numa palavra chave um link para essa página, com o elemento `<a>`.
-3. Crie uma [wordcloud](https://www.wordclouds.com/) com base em palavras que associa à cidade. 
+
+1. De seguida, num novo parágrafo `<p>` apresente o seu website, criando uma lista não numerada com a etiqueta `<ol>` e várias linhas `<li>`. Em cada linha apresente cada página do seu site em poucas palavras, incluindo numa palavra chave um link para essa página, com o elemento `<a>`.
+
+2. Crie uma [wordcloud](https://www.wordclouds.com/) com base em palavras que associa à cidade. 
     1. Clique em wordlist e Edit, prima no botão para apagar as palavras existentes.
     2. Adicione palavras que estejam associadas à cidade. 
     3. Ponha peso 10 no nome da cidade para que esta fique com maior destaque. 
@@ -153,10 +153,9 @@ Na pagina `index.html` insira, por debaixo da frase que escreveu sobre a cidade 
 # 6. Página Localização
 
 Na página `local.html`:
-1. Por baixo do menu, insira no elemento `<h2>` a palavra Localização.
-2. Insira um pequeno parágrafo que descreva a localização da ciadade (continente, país), assim como algumas informações geográficas destas.
-3.	Insira por baixo um mapa do Google Maps do lugar. Para tal: 
-    a. procure o lugar no website www.google.pt/maps
+1. Insira um pequeno parágrafo que descreva a localização da ciadade (continente, país), assim como algumas informações geográficas destas.
+2.	Insira por baixo um mapa do Google Maps do lugar. Para tal: 
+    a. procure a cidade no website www.google.pt/maps
     b. Faça um zoom que considera apropriado
     c. clique em “partilhar” e na opção “incorporar mapa” 
     d. Selecione tamanho pequeno
@@ -168,16 +167,14 @@ Na página `local.html`:
 # 7. Página Multimédia
 
 Na página `multimedia.html` crie:
-1. Um elemento `<h2>` com a palavra Multimédia, em vez de Introdução.
-2. Pesquise no Youtube por um video sobre a cidade escolhida e insira-o na sua página recorrendo à opção "partilhar" e escolhendo "embeded". Será um elemento ìframe`.
+1. Pesquise no Youtube por um video sobre a cidade escolhida e insira-o na sua página recorrendo à opção "partilhar" e escolhendo "embeded". Será um elemento ìframe`.
 
 
 # 8. Página Informações
 
 Na página `info.html`:
-1.	Um elemento `<h2>` com a palavra Informações em vez de Introdução.
-2. Crie uma frase a introduzir uma tabela de informações a compilar sobre a cidade.	
-3.Crie uma tabela com dados à sua escolha sobre a cidade escolhida. Deverá ter pelo menos 3 colunas e 4 colunas. Uma sugestão é ir à wikipedia e extrair alguns elementos que aparecem numa tabela à direita. A terceira coluna pode consistir num elemento agrupador (por exemplo demografia, geografia, história, etc). Veja o exemplo da tabela nos slides.
+1. Crie uma frase a introduzir uma tabela de informações a compilar sobre a cidade.	
+2. Crie uma `<table>` com dados à sua escolha sobre a cidade escolhida (consulte, e.g., Wikipedia).
     
 # 9. Site atualizado online!
 
@@ -189,6 +186,8 @@ Na página `info.html`:
     
  
 # 10. Fim
- 
+
+Submeta o domínio da sua aplicação no Moodle até à sua próxima aula prática
+
 Esperamos que tenha gostado de aplicar os conhecimentos de HTML fazendo um primeiro website &#127760;!
 
