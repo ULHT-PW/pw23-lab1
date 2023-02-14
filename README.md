@@ -3,29 +3,28 @@
 # Programação Web - Laboratório 1: *O meu primeiro website* 
 
 ## Objetivo
-* Neste laboratório criará um website **sobre uma cidade ou lugar à sua escolha**.
-* Irá aplicar os conceitos elementares de HTML.
-* Irá ficar disponível online
+* Criar um website **sobre uma cidade ou lugar à sua escolha**.
+* Aplicar os conceitos elementares de HTML.
+* Colocar o website online
+
+## Prazo de Entrega
 * Este laboratório deverá ser concluido antes da sua aula prática da semana de 20.2, onde será avaliado. 
 
-## Recomendações
-* Leia o enunciado todo com atenção antes de o começar a resolver para entender o que fará.
-* Execute com atenção cada passo, certificando-se que implementa todos os detalhes.  
-* Se tiver alguma dúvida, recorra aos slides que contêm os conhecimentos que precisa para realizar o laboratório.
-
 ## Pré-requisitos
-* Deverá ter o VS Code instalado para editar o código HTML de forma fácil.
+* Instale o VS Code instalado para editar o código HTML de forma fácil.
 * Instale no VS Code a extensão live server. Permitir-lhe-á visualizar a página, à medida que for editando. Basta clicar, no canto inferior direito, em `Go live`.
-* Para que o seu código fique bem indentado, utilize o comando `Shift+Alt+F`
+* Utilize `Shift+Alt+F` para indentar código
 
 # 1. HTML
 
-O HTML é uma linguagem de marcação para construir páginas Web. Os ficheiros HTML possuem marcadores (*tags*), palavras entre parênteses angulares (`<` e `>`) que são comandos de formação da linguagem. Reveja se necessário os slides apresentados na [aula prática](https://github.com/ULHT-PW/pw23-lab1/files/10727143/pw-lab1.pdf)
+O HTML é uma linguagem de marcação para construir páginas Web. Os ficheiros HTML possuem marcadores (*tags*), palavras entre parênteses angulares (`<` e `>`) que são comandos de formação da linguagem. 
 
 Por exemplo, no elemento `<title>Primeira página</title>`:
 * `<title>` é o marcador de abertura
 * `</title>` é o marcador de fecho
 * `Primeira página` será o conteúdo afetado pelo marcador <title>, que neste caso especificará o título da barra de navegação.
+
+ Reveja se necessário os slides da [aula prática](https://github.com/ULHT-PW/pw23-lab1/files/10727143/pw-lab1.pdf)
 
 <details>
  
