@@ -112,8 +112,7 @@ Tem agora criado o seu website! Agora irá preencher cada página com conteúdos
 7. Carregue nessa pasta todos os ficheiros do seu website
 8. No menu superior, clique em "Web"
 9. No separador Static, especifique como URL=/ e path o caminho até sua pasta, como em baixo
-![image](https://user-images.githubusercontent.com/42048382/220098780-e2f2fecf-a58d-4607-a0e9-3bbcea23d44c.png)
-
+![static](https://user-images.githubusercontent.com/42048382/220099177-0cf5afb1-0466-421a-a7cd-b7dd422ba127.png)
 10. Clique no botão verde "Reload ...."
 11. Clique no seu dominio. O seu site está online 🥳
     
