@@ -111,8 +111,11 @@ Tem agora criado o seu website! Agora irá preencher cada página com conteúdos
 6. crie uma pasta intitulada "web"
 7. Carregue nessa pasta todos os ficheiros do seu website
 8. No menu superior, clique em "Web"
-9. Clique no botão verde "Reload ...."
-10. Clique no seu dominio. O seu site está online 🥳
+9. No separador Static, especifique como URL=/ e path o caminho até sua pasta, como em baixo
+![image](https://user-images.githubusercontent.com/42048382/220098780-e2f2fecf-a58d-4607-a0e9-3bbcea23d44c.png)
+
+10. Clique no botão verde "Reload ...."
+11. Clique no seu dominio. O seu site está online 🥳
     
 Continue a editar no VS Code o seu website. No final, carregará os ficheiros finalizados. 
     
