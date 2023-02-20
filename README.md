@@ -1,6 +1,6 @@
-**UNIVERSIDADE LUSÓFONA**
+**UNIVERSIDADE LUSÓFONA, Programação Web, 22-23**
 
-# Programação Web - Laboratório 1: *O meu primeiro website online* 
+# Laboratório 1: *O meu primeiro website online* 
 
 ## Objetivo
 * Criar um website **sobre uma cidade ou lugar à sua escolha**.
