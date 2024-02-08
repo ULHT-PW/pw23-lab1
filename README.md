@@ -11,8 +11,8 @@
 * Este laboratório deverá ser concluido até dia 19.2, sendo posteriormente avaliado. 
 
 ## Pré-requisitos
-* Instale o VS Code instalado para editar o código HTML de forma fácil.
-* Instale no VS Code a extensão live server. Permitir-lhe-á visualizar a página, à medida que for editando. Basta clicar, no canto inferior direito, em `Go live`.
+* Instale o VS Code para editar o código HTML de forma fácil.
+* Instale no VS Code a extensão live server. Permitir-lhe-á visualizar a página renderizada, à medida que for editando. Basta clicar, no canto inferior direito, em `Go live`.
 * Utilize `Shift+Alt+F` para indentar código
 
 # 1. HTML `<>`
